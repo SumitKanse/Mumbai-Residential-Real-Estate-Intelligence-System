@@ -1,0 +1,9 @@
+.venv/
+dslab/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+model/*.pkl
+pages/.env
+.env
+mistral-realestate-qlora/
