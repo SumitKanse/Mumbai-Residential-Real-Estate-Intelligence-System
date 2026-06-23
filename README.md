@@ -1,6 +1,13 @@
 # Mumbai-Residential-Real-Estate-Intelligence-System
 A data science project that analyzes Mumbai real estate price trends using Python. Data is collected via web scraping with BeautifulSoup and processed using Pandas and NumPy. Visualization and model training are performed using Matplotlib, Seaborn, and PyTorch.
 
+🌐 Live Demo
+
+🔗 https://mumbai-residential-real-estate-intelligence-system-43v3xf6tqtx.streamlit.app/
+
+An interactive data analytics and machine learning platform for analyzing Mumbai's residential rental market. The application provides rental price prediction using Random Forest, market trend visualization, location-based insights, and a dataset-powered assistant to support data-driven decision making.
+
+
 The Mumbai Residential Real Estate Intelligence System is a data-driven project designed to analyze and understand Mumbai’s residential property market. It combines machine learning, data visualization, and a chatbot interface to provide property price predictions, market insights, and quick answers to user queries through an interactive Streamlit dashboard.
 
 ---
